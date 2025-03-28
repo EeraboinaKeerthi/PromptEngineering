@@ -13,3 +13,7 @@ In one-shot prompting, we provide one question-answer example, helping the model
 
 Few Shot Prompting:
 In few-shot prompting, we give the model multiple examples. This is useful for complex tasks requiring more context. For instance, for sentiment analysis, we provide sample texts with their classifications,and the model uses the categories to classify new texts.
+
+LangChain:
+
+LangChain is framework that is extremely helpful for prompt engineering and the integration of generative AI capabilities in applications or data platforms. It has many capabilities, some of which will not be introduced until later modules, but we will start with a gentle introduction to some of the easy-to-understand concepts in the framework.
